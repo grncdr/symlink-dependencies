@@ -1,0 +1,20 @@
+{
+  "name": "symlink-dependencies",
+  "version": "0.0.0",
+  "description": "symlink dependencies in-place using an npm cache dir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Stephen Sugden <me@stephensugden.com>",
+  "license": "BSD",
+  "dependencies": {
+    "mkdirp": "~0.3.5",
+    "defined": "0.0.0",
+    "lockfile": "~0.3.4",
+    "q": "~0.9.4",
+    "map-stream": "0.0.2",
+    "lock": "0.0.3"
+  }
+}
