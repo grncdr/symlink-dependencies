@@ -1,6 +1,6 @@
 {
   "name": "symlink-dependencies",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "symlink dependencies in-place using an npm cache dir",
   "main": "index.js",
   "scripts": {
